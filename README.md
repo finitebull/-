@@ -19,3 +19,5 @@
     4.奖励箱子秒点
     5.对手上场的英雄光环识别， 并调整策略
     6.游戏结束后广告自动观看，并开始下一局
+
+![image](https://user-images.githubusercontent.com/94673579/198992881-fc06928b-0412-40ee-8d1e-ff8d2331b4a5.png)
