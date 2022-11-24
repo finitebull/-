@@ -14,8 +14,8 @@
 -------------------
     https://github.com/finitebull/-/releases
     或者傻逼百度网盘下载：链接: https://pan.baidu.com/s/1Pw5PRT5UIh5YHYlAwxnZhQ?pwd=1111    提取码: 1111 
-    或者试试这个   ：   https://cia.wang/s/qj3sB
-
+    或者试试这个   ：   https://cia.wang/s/p9BtX
+    
 为什么需要挂机脚本：
 -------------------
     1.首先因为懒，不想为了每个赛季的奖励每天起早贪黑的刷，爷还有别的事要干，但是游戏里的每个奖励都要拿到
