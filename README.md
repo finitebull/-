@@ -45,6 +45,10 @@ https://github.com/finitebull/-/releases
 另外参考一下这是游戏里卖英雄的价格
 ![image](https://user-images.githubusercontent.com/94673579/198992881-fc06928b-0412-40ee-8d1e-ff8d2331b4a5.png)
 
+需要准备和满足的条件：
+---------------
+    windows 10 及以上 64位 系统的电脑 （以后会增加32位电脑的支持， 目前就是这样）
+    “腾讯手游助手”这个傻逼软件或者 “微信电脑版”这个傻逼软件
 联系方式：
 --------------
     微信号：old_favorite
