@@ -41,5 +41,6 @@ https://github.com/finitebull/-/releases
 
 联系方式：
 --------------
-    aa15478aa@163.com
     微信号：old_favorite
+     
+    邮箱： aa15478aa@163.com
