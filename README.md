@@ -38,3 +38,7 @@ https://github.com/finitebull/-/releases
 
 另外参考一下这是游戏里卖英雄的价格
 ![image](https://user-images.githubusercontent.com/94673579/198992881-fc06928b-0412-40ee-8d1e-ff8d2331b4a5.png)
+
+联系方式：
+--------------
+aa15478aa@163.com
