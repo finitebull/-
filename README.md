@@ -60,6 +60,8 @@
 ![image](https://user-images.githubusercontent.com/94673579/203709095-b61df149-6543-4608-b863-edf92a851a7a.png)
 这是一款低保卡组，回想一下炉石的挂机脚本用的是什么？不也是些操作简单的卡组么
 如果需要自定义并使用其他的高级卡组，加钱啊，没有什么是加钱解决不了的
+![image](https://user-images.githubusercontent.com/94673579/203710844-2a944b9a-ac9b-497e-92fa-bd4519ffe803.png)
+每个赛季保证都能上10000以上，获得免费金卡一张，
 
 联系方式：
 --------------
