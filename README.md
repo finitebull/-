@@ -55,6 +55,11 @@
 ------------
 ![image](https://user-images.githubusercontent.com/94673579/203703277-de0b8182-4a74-416b-93f9-ec3a5d022981.png)
 
+挂机使用的卡组：
+------------------------
+![image](https://user-images.githubusercontent.com/94673579/203709095-b61df149-6543-4608-b863-edf92a851a7a.png)
+
+
 联系方式：
 --------------
     微信号：old_favorite
