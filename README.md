@@ -13,7 +13,7 @@
 下载链接：
 -------------------
     https://github.com/finitebull/-/releases
-    或者傻逼百度网盘下载：https://pan.baidu.com/s/1E62S998nmwkSjWQDSc8Vbw?pwd=1111   提取码: 1111 
+    或者傻逼百度网盘下载：https://pan.baidu.com/s/131tydqO7H5o-kiWcPO19vQ?pwd=1111   提取码: 1111 
     或者试试这个   ：  https://cia.wang/s/Mg3fO
     
 为什么需要挂机脚本：
