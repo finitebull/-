@@ -69,27 +69,16 @@
 卡组上场权重逻辑:  (逻辑是写死在程序里的，虽然不建议换挂机卡组，但是想换卡组的参考我的逻辑自己替换截图也是可行的，自定义更高级的卡组逻辑欢迎打赏)
 ------------------------
     上场顺序是
-    gugong=20
-    shenv=15
-    binggong=9
-    songshu=10
-    xiaolu=8
-    lvgong=7
-    haiyao=5
-    huoqiang=4
-    dashu=2
-    dijing=1
+    gugong的权重是 20 ， shenv的权重是 15 ， binggong的权重是 9 ， songshu的权重是 10 ， xiaolu的权重是 8 ， lvgong的权重是 7 ， haiyao的权重是 5 ， huoqiang的权重是 4 ， dashu的权重是 2 ， dijing的权重是 1
     另外
-    如果 binggong 在场上  songshu=6
-    如果 songshu 在场上 binggong=6 dijing=0
-    如果 haiyao 在场上 dashu=0
-    如果 dashu 在场上 haiyao=0
+    如果 binggong 在场上则  songshu 的权重变成 6
+    如果 songshu 在场上则 binggong的权重变成 6 ， dijing的权重变成 0
+    如果 haiyao 在场上 dashu的权重变成 0
+    如果 dashu 在场上 haiyao的权重变成 0
     如果 对面三法被动
-     haiyao=5
-     dashu=0
+     haiyao的权重变成 5 ， dashu的权重变成 0
     如果 对面三弓被动
-     haiyao=0
-     dashuy=5
+     haiyao的权重变成 0 ， dashuy的权重变成 5
     另外小鹿会被卖
     场上有的先上，然后数大的先上，然后根据逻辑。
 如果想换阵容
