@@ -56,7 +56,8 @@
 ![image](https://user-images.githubusercontent.com/94673579/203703277-de0b8182-4a74-416b-93f9-ec3a5d022981.png)
 激活成功界面如下：
 -------------------
-![image](https://user-images.githubusercontent.com/94673579/203776208-7ac05b05-de69-49fb-be19-22cf9332e3f5.png)
+![image](https://user-images.githubusercontent.com/94673579/204074615-97f51151-6609-42f1-b2e2-5917c799cc49.png)
+
 
 挂机使用的卡组：
 ------------------------
