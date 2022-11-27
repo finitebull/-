@@ -12,6 +12,9 @@
     本程序每一个代码都是本人亲敲，掌握全部技术细节，界面友好只有一个按钮
     而且很便宜
 
+实际演示：
+----------
+https://www.bilibili.com/video/BV1zg411p7C3/?vd_source=42cda5a0c779ca6427c28a9c9ebe5c78
 
 
 下载链接：
