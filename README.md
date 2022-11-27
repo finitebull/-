@@ -14,7 +14,7 @@
 
 实际演示：
 ----------
-https://www.bilibili.com/video/BV1zg411p7C3/?vd_source=42cda5a0c779ca6427c28a9c9ebe5c78
+[![Watch the video](https://i2.hdslb.com/bfs/archive/303a4497cf6b431703f5ff5498ceb5f85a0ad042.jpg@320w_200h)](https://www.bilibili.com/video/BV1zg411p7C3/?vd_source=42cda5a0c779ca6427c28a9c9ebe5c78)
 
 
 下载链接：
