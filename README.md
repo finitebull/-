@@ -12,7 +12,7 @@
     本程序每一个代码都是本人亲敲，掌握全部技术细节，界面友好只有一个按钮
     而且很便宜
 
-![image](https://user-images.githubusercontent.com/94673579/198820578-12dd54fc-f7c8-4e88-a93f-e7dbdd258e48.png)
+https://www.bilibili.com/video/BV1zg411p7C3/?vd_source=42cda5a0c779ca6427c28a9c9ebe5c78
 
 下载链接：
 -------------------
