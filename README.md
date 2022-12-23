@@ -20,7 +20,7 @@
 下载链接：
 -------------------
     https://github.com/finitebull/-/releases
-    或者傻逼百度网盘下载：https://pan.baidu.com/s/131tydqO7H5o-kiWcPO19vQ?pwd=1111
+    或者傻逼百度网盘下载：https://pan.baidu.com/s/1akQDo0wfvCwXDpWZUyoD2g?pwd=1111
     或者试试这个   ：  https://cia.wang/s/zkDHZ
     
 为什么需要挂机脚本：
