@@ -20,8 +20,8 @@
 下载链接：
 -------------------
     https://github.com/finitebull/-/releases
-    或者傻逼百度网盘下载：https://pan.baidu.com/s/113TvVypYlu1FSnZB8R8xGw?pwd=2222
-    或者试试这个   ：  https://cia.wang/s/apyF4
+    或者傻逼百度网盘下载：https://pan.baidu.com/s/1hbw_Dm4wbZ6DlQl1_SoHfg?pwd=1111
+    或者试试这个   ：  https://cia.wang/s/0x8C5
     
 为什么需要挂机脚本：
 -------------------
