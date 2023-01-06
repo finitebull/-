@@ -22,7 +22,7 @@
 -------------------
     https://github.com/finitebull/-/releases
     
-    或者试试这个   ：  https://cia.wang/s/N8JfA
+    或者试试这个   ：  https://cia.wang/s/jjBcy
     
 为什么需要挂机脚本：
 -------------------
